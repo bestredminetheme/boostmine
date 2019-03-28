@@ -4,6 +4,23 @@ https://bestredminetheme.com Compatible with many plugins. Responsive.
 </br> </br>
 <h2>Changelog: </h2>
 
+v 2.1 (2019-03-22):</br>
+Feature > Border radius of buttons and select boxes can now be customized.*</br>
+New > New preset styles added: Charcoal/Syrup, Space/Sky.</br>
+New > Preset styles can now be downloaded from website.</br>
+New > Minimum width for Subject field in issue list.</br>
+New > Done ratio progress bar in slight gradient style.</br>
+New > Lighter download icon.</br>
+New > New code block syntax highlight from Redmine 4.0 applied.</br>
+Fix > Repository module better styling.</br>
+Fix > My Page icon missing in page body.</br>
+Fix > More user-friendly ‘View image’ icon.</br>
+Fix > Text left alignment in projects’ search box.</br>
+Fix > Wiki text overlapped by buttons.</br>
+Fix > Anchor link didn’t scroll to the right place when sticky header was active.</br>
+Fix > My Page Document and News blocks incorrect styling fixed.</br>
+* If you’ve got a theme version with IE11 compatibility, please read this FAQ.</br></br>
+
 v 2.0 (2019-01-17):</br>
 Feature > Redmine 4.0 compatibility.</br>
 Feature > RedmineUP updated plugins compatibility.</br>
