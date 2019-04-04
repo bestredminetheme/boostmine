@@ -2,6 +2,11 @@
 Boostmine: The Best Redmine Theme with premium design and support
 https://bestredminetheme.com Compatible with many plugins. Responsive.
 </br> </br>
+![Issue list](https://github.com/bestredminetheme/boostmine/blob/master/boostmine-issue-list-1-1024x768.png)
+ </br>
+ <b>Note: Boostmine can be adapted to your corporate image or you can use any of our preset styles.</b>
+
+
 <h2>Changelog: </h2>
 
 v 2.1 (2019-03-22):</br>
