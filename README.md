@@ -11,7 +11,7 @@ https://bestredminetheme.com Compatible with many plugins. Responsive.
 
 v 2.1 (2019-03-22):</br>
 Feature > Border radius of buttons and select boxes can now be customized.*</br>
-New > New preset styles added: Charcoal/Syrup, Space/Sky.</br>
+New > New preset styles added: Charcoal/Syrup, Space/Sky, Shadow / Candy Apple, Army/Lead.</br>
 New > Preset styles can now be downloaded from website.</br>
 New > Minimum width for Subject field in issue list.</br>
 New > Done ratio progress bar in slight gradient style.</br>
