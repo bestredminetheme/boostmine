@@ -9,7 +9,7 @@ https://bestredminetheme.com Compatible with many plugins. Responsive.
 
 <h2>Changelog: </h2>
 
-v 2.1 (2019-03-22):</br>
+v 2.2 (2019-05-30):</br>
 Feature > New WYSIWYG styling.</br>
 Feature > Customize sidebar width.</br>
 Feature > Colors for history changes.</br>
