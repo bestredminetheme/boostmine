@@ -10,8 +10,32 @@ https://bestredminetheme.com Compatible with many plugins. Responsive.
 <h2>Changelog: </h2>
 
 v 2.1 (2019-03-22):</br>
+Feature > New WYSIWYG styling.</br>
+Feature > Customize sidebar width.</br>
+Feature > Colors for history changes.</br>
+Feature > Hide or change footer text.</br>
+New > New preset styles: Shadow/Candy Apple, Army/Lead.</br>
+New > Improve done ratio bar.</br>
+New > Reduce padding for top menu options.</br>
+New > Use root radius for done ratio bar.</br>
+New > Added several icons.</br>
+New > Increase font for Roadmap’s progress info for better reading.</br>
+New > New buttons from plugins get default button styling.</br>
+New > Added comment and sticky icons to forums module.</br>
+New >Improve label’s vertical alignment.</br>
+New > Better styling for Time logger’s plugin.</br>
+New > Better styling for Scrum plugin.</br>
+Fix > Textile or Markdown links are not shown in preview tab.</br>
+Fix > Activity titles in My Page were not legible (Redmine 4.x).</br>
+Fix > Input text not visible in Open ID field.</br>
+Fix > Checkbox visible in calendar entries.</br>
+Fix > Overlapped radial buttons in repository.</br>
+Fix > 3 points menu overlapping icons in Spent time list (Redmine 4.x).</br>
+Fix > Project status label misplaced in Projects admin page.</br></br>
+
+v 2.1 (2019-03-22):</br>
 Feature > Border radius of buttons and select boxes can now be customized.*</br>
-New > New preset styles added: Charcoal/Syrup, Space/Sky, Shadow / Candy Apple, Army/Lead.</br>
+New > New preset styles added: Charcoal/Syrup, Space/Sky.</br>
 New > Preset styles can now be downloaded from website.</br>
 New > Minimum width for Subject field in issue list.</br>
 New > Done ratio progress bar in slight gradient style.</br>
