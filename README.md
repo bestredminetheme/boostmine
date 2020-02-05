@@ -9,6 +9,19 @@ https://bestredminetheme.com/boostmine Compatible with many plugins. Responsive.
 
 <h2>Changelog: </h2>
 
+v 2.3 (2020-01-17):</br>
+New > Compatibility with Redmine 4.1</br>
+New > Improved compatibility with Redmine 4.0.</br>
+
+v 2.3 (2019-12-02):</br>
+Feature > Decide whether sidebar on the left (default) or on the right.</br>
+New > Pointer cursor for filedrop area.</br>
+New > Updated Boostmine’s skins with new features included in 2.3 theme version.</br>
+Fix > Contacts plugin: improve contact view on sidebar and strike closed issue numbers.</br>
+Fix > Helpdesk plugin: “send reply” correctly checked.</br>
+Fix > Additionals plugin: improved drop-down menu.</br>
+Fix > Missing fav/unfav icons.</br>
+
 v 2.2 (2019-05-30):</br>
 Feature > New WYSIWYG styling.</br>
 Feature > Customize sidebar width.</br>
