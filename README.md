@@ -9,7 +9,7 @@ https://bestredminetheme.com/boostmine Compatible with many plugins. Responsive.
 
 <h2>Changelog: </h2>
 
-v 2.4 (2020-01-17):</br>
+v 2.4 (2020-07-08):</br>
 New > Compatibility with Redmine 4.1</br>
 New > Improved compatibility with Redmine 4.0.</br>
 
