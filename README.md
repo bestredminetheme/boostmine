@@ -9,6 +9,14 @@ https://bestredminetheme.com/boostmine Compatible with many plugins. Responsive.
 
 <h2>Changelog: </h2>
 
+v 2.5 (2020-09-28):</br>
+New > Opening/closing filters smoothing effect.</br>
+New > Drive plugin compatibility.</br>
+New > DMSF plugin improvements.</br>
+Bug > Increase top padding for no data message.</br>
+Bug > Sidebar links in Helpdesk plugin couldn’t be clicked.</br>
+Bug > Add watchers & add members pop ups improvement.</br>
+
 v 2.4 (2020-08-08):</br>
 New > Compatibility with Redmine 4.1</br>
 New > Improved compatibility with Redmine 4.0.</br>
