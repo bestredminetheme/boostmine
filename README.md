@@ -9,6 +9,12 @@ https://bestredminetheme.com/boostmine Compatible with many plugins. Responsive.
 
 <h2>Changelog: </h2>
 
+v 2.6 (2021-03-08):</br>
+New > CRM plugin improved compatibility.</br>
+New > Additionals plugin improved compatibility.</br>
+Bug > Sidebar with sticky header bug solved.</br>
+Bug > Other minor bugs solved.</br>
+
 v 2.5 (2020-09-28):</br>
 New > Opening/closing filters smoothing effect.</br>
 New > Drive plugin compatibility.</br>
