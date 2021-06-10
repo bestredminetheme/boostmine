@@ -9,6 +9,11 @@ https://bestredminetheme.com/boostmine Compatible with many plugins. Responsive.
 
 <h2>Changelog: </h2>
 
+v 3.0 (2021-06-10):</br>
+New > Redmine 4.2 compatibility.</br>
+New > New styling for checkboxes and radio buttons.</br>
+Bug > Several bugs solving and minor improvements.</br>
+
 v 2.6 (2021-03-08):</br>
 New > CRM plugin improved compatibility.</br>
 New > Additionals plugin improved compatibility.</br>
