@@ -8,6 +8,8 @@ https://bestredminetheme.com/boostmine Compatible with many plugins. Responsive.
 
 
 <h2>Changelog: </h2>
+v 4.0 (2021-10-20):</br>
+New > Dark Mode.</br></br>
 
 v 3.0 (2021-06-10):</br>
 New > Redmine 4.2 compatibility.</br>
