@@ -1,6 +1,6 @@
 # Boostmine by Best Redmine Theme
 Boostmine: The Best Redmine Theme with premium design and support
-https://bestredminetheme.com/boostmine Compatible with many plugins. Responsive. Preset skins.
+https://bestredminetheme.com/boostmine Compatible with many plugins. Responsive. Preset skins and dark mode.
 </br> </br>
 ![Issue list](https://github.com/bestredminetheme/boostmine/blob/master/boostmine-issue-list-1-1024x768.png)
  </br>
