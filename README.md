@@ -8,6 +8,12 @@ https://bestredminetheme.com/boostmine Compatible with many plugins. Responsive.
 
 
 <h2>Changelog: </h2>
+v. 6.1 (2026-02-09):</br>
+New > Live Customizer
+New > Split view option (Gmail style)
+New > Scroll to top button
+New > Redmine 6 compatibility
+
 v 4.0 (2021-10-20):</br>
 New > Dark Mode.</br></br>
 
