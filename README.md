@@ -8,6 +8,10 @@ https://bestredminetheme.com/boostmine Compatible with many plugins. Responsive.
 
 
 <h2>Changelog: </h2>
+v. 6.1.4 (2026-06-29):</br>
+Bugs > Images were no shown properly on dark mode. Better contrast for other elements.</br>
+Bugs > Status and tracker descriptions popup rendered visible inline instead of hidden. Using Boostmine font.
+</br></br>
 v. 6.1.3 (2026-03-06):</br>
 New > Added a compact view option.</br>
 New > Added an option to hide the “Help” link (redmine.org/guide) from the top menu.</br>
