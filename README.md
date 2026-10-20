@@ -7,6 +7,9 @@ https://bestredminetheme.com/boostmine Compatible with many plugins. Responsive.
  <b>Note: You can adapt Boostmine to your corporate image or you can use any of our preset styles.</b>
 
 <h2>Changelog: </h2>
+v. 7.0.2 (2026-10-20):</br>
+Bugs > Improved issue-list filters, column controls, and query totals for better readability. Fixed Gantt issue-label contrast while preserving white labels on colored tracker chips.</br>
+</br>
 v. 7.0.1 (2026-07-20):</br>
 Bugs > Gantt chart, calendar and contrast issues on Redmine 7.</br>
 </br>
